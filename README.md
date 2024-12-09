@@ -1,6 +1,6 @@
 # DoomsDayNote
 
-The musical of the song?
+The musical note of the song?
 
 - Radiation
 - Solar Flare
@@ -64,15 +64,17 @@ Proposition water_does_not_dilute_alcohol_in_bloodstream : does_not_dilute_in_bl
 
 **Mathematical Study of the Subject:**
 
-Let \( A(t) \) represent the concentration of alcohol in the bloodstream at time \( t \), and \( W(t) \) represent the volume of water consumed over time. The rate of change of alcohol concentration can be modeled as:
+Let $\( A(t) \)$ represent the concentration of alcohol in the bloodstream at time $\( t \)$, and $\( W(t) \)$ represent the volume of water consumed over time. The rate of change of alcohol concentration can be modeled as:
 
-\[ \frac{dA}{dt} = -kA(t) + f(W(t)) \]
+$$
+\frac{dA}{dt} = -kA(t) + f(W(t))
+$$
 
 Where:
-- \( k \) is the metabolic rate constant of alcohol by the liver.
-- \( f(W(t)) \) represents the effect of water consumption on alcohol absorption rate.
+- $\( k \)$ is the metabolic rate constant of alcohol by the liver.
+- $\( f(W(t)) \)$ represents the effect of water consumption on alcohol absorption rate.
 
-Assuming \( f(W(t)) \) decreases the absorption rate, increasing \( W(t) \) leads to a reduction in the rate at which alcohol enters the bloodstream. However, once alcohol is in the bloodstream, its elimination is primarily governed by the liver's metabolism, independent of water intake.
+Assuming $\( f(W(t)) \)$ decreases the absorption rate, increasing $\( W(t) \)$ leads to a reduction in the rate at which alcohol enters the bloodstream. However, once alcohol is in the bloodstream, its elimination is primarily governed by the liver's metabolism, independent of water intake.
 
 **Open Questions:**
 
