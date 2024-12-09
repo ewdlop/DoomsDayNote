@@ -2,15 +2,15 @@
 
 The musical note of the song?
 
-- Radiation
-- Solar Flare
-- 5G Wifi
+- Radiation(be specific)
+- Solar Flare(Earth has a well-know paraday cage)
+- 5G Wifi Virus Calls Corona
 - Bermuda
 - Magnetic field that attracts :ghost:
-- Tooth Fairy
+- Tooth Fairy(wait until you get old)
 - Flying Reindeer
-- Yeti
-- Big Foot
+- Yeti(Ask Jesus)
+- Big Foot(it would be tall as a tree)
 - Slender Man
 - Water to Wine
 - levitate with Gravitoelectromagnetism(they dont directly boost each other I thought)
