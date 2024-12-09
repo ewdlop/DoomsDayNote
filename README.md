@@ -15,7 +15,7 @@ The musical note of the song?
 - Water to Wine
 - levitate with Gravitoelectromagnetism(they dont directly boost each other I thought)
 - Self-proclaimed hackers(who break shit 99.99999999...9 %= 100% of the time)and identity swap trolls who have identity crisis issues and probably don't know how to say hello to people.
-- Cryptocurrencies without any gas money
+- Cryptocurrencies without any gas money. Nah they rely on Mathemicaian anyway. Sha-1024?. pfff. Moore's law pretty much ended already.
 
 # 
 - Drinking water while consuming alcohol can help mitigate some effects of alcohol, but it does not dilute the alcohol already present in your bloodstream. Water intake can slow alcohol absorption and aid in hydration, potentially reducing hangover symptoms. However, the liver primarily metabolizes alcohol at a constant rate, and drinking water does not accelerate this process. 
