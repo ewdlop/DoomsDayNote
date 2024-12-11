@@ -3,12 +3,12 @@
 The musical note of the song?
 
 - Radiation(be specific)
-- Solar Flare(Earth has a well-know paraday cage)
-- 5G Wifi Virus Calls Corona
+- Solar Flare(Earth has a well-know paraday cage) ----------->ｔｕｒｎ　ｔｈｉｓ　ＵＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰＰ
+- 5G Wifi Virus Calls Corona　
 - Bermuda
 - Magnetic field that attracts :ghost:
-- Tooth Fairy(wait until you get old)
-- Flying Reindeer
+- Tooth Fairy(wait until you get old)　－－－－－－＞　ｙｏｕ　ｂｅ　ｒｉｃｈ
+- Flying Reindeer　
 - Yeti(Ask Jesus)
 - Big Foot(it would be tall as a tree)
 - Slender Man
